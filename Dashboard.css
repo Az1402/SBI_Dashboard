@@ -1,0 +1,51 @@
+.heading{
+    color:blue;
+    font-size: 45px;
+}
+
+.logo{
+    width: 50px;
+    margin-right: 20px;
+    
+}
+.title{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: azure;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    justify-content: center;
+
+    
+}
+.list{
+    font-size: 20px;
+    font-weight: 700px;
+}
+
+.quarter-selection select{
+    size: 25px;
+    width: 200px;
+    margin-top: 30px;
+}
+
+
+.metrics-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 30px;
+    
+}
+
+.metrics-container .metric-tile {
+    border: 3px solid black;
+    padding: 30px;
+    border-radius: 25px;
+    margin: 30px 30px 30px 30px;
+
+  }
+  
